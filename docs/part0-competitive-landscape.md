@@ -690,3 +690,139 @@ Product Characteristics
                 │
                 ↓
           Business Value
+---
+# 0.13 Limitations of the Competitive Analysis
+
+This section is based primarily on publicly available product information and therefore has several limitations.
+
+### 1. Product information changes rapidly
+
+Generative AI products frequently update:
+
+- Models
+- Features
+- Pricing
+- Usage limits
+- Product interfaces
+- Regional availability
+
+Therefore, the competitive matrix should be updated before the final version of the project is submitted or presented.
+
+### 2. Product features do not equal user value
+
+The existence of a feature does not necessarily mean that users:
+
+- Know about it
+- Use it
+- Like it
+- Consider it important
+- Are willing to pay for it
+
+Therefore, feature comparisons alone cannot establish competitive advantage.
+
+### 3. Public information does not directly reveal user behavior
+
+Official product pages can describe intended product capabilities, but they cannot tell us:
+
+- Why users choose a product
+- How frequently users use it
+- Why users stop using it
+- Which features users actually value
+- Whether users are willing to pay
+
+These questions require first-hand user research.
+
+### 4. User segmentation remains unverified
+
+The proposed user differences between ChatGPT, Gemini, Doubao, and DeepSeek are research hypotheses rather than conclusions.
+
+---
+
+# 0.14 Transition to Part 1
+
+The competitive analysis suggests that the four products may differ in:
+
+- Product positioning
+- Ecosystem dependence
+- Usage scenarios
+- User engagement
+- Technical orientation
+- Monetization strategies
+
+However, these differences cannot be established solely from product documentation.
+
+The next stage of this project will therefore collect first-hand user data.
+
+The central question becomes:
+
+> **Do users actually behave differently across these AI products, and what factors explain those differences?**
+
+Part 1 will focus on:
+
+- User survey design
+- Sampling strategy
+- Data collection
+- User demographics
+- AI product adoption
+- Usage scenarios
+- Usage frequency
+- Product preference
+- Satisfaction
+- Willingness to pay
+- Multi-homing behavior
+
+The data collected in Part 1 will then be used to test the hypotheses proposed in this section.
+
+---
+
+# 0.15 Preliminary Conclusion
+
+The preliminary competitive analysis indicates that ChatGPT, Gemini, Doubao, and DeepSeek should not be viewed simply as four interchangeable AI chatbots.
+
+Instead, they represent different approaches to creating value in the generative AI market:
+
+| Product | Preliminary Strategic Position |
+|---|---|
+| ChatGPT | AI-native productivity and general-purpose assistant |
+| Gemini | AI integrated into the Google ecosystem |
+| Doubao | Broad, consumer-oriented, multi-scenario AI assistant |
+| DeepSeek | Model capability + consumer assistant + developer/API ecosystem |
+
+The key implication for this research is that competitive advantage may come from different sources.
+
+For one product, the key factor may be **workflow depth**.
+
+For another, it may be **ecosystem integration**.
+
+For another, it may be **scenario breadth**.
+
+For another, it may be **technical capability**.
+
+The subsequent user research will therefore examine whether these product-level differences translate into measurable differences in:
+
+> **User choice → Usage → Engagement → Retention → Willingness to Pay**
+
+rather than assuming that product features automatically generate user value.
+
+---
+
+## Sources
+
+### Official Product Sources
+
+- OpenAI — ChatGPT FAQ
+- OpenAI — ChatGPT pricing and subscription information
+- OpenAI — ChatGPT release notes
+- Google — Gemini Apps Help
+- Google — Google AI Plans
+- Google — Gemini product updates
+- Doubao — Official Product Information
+- Doubao — Privacy and Personalization Documentation
+- DeepSeek — Official Website
+- DeepSeek — Transparency Center
+
+### Research Note
+
+All product descriptions in this section are based primarily on publicly available official product information. Pricing, feature availability, model names, and usage limits are subject to change.
+
+The hypotheses presented in Section 0.11 are **research hypotheses generated from competitive analysis and are not empirical conclusions**.

@@ -690,7 +690,8 @@ Product Characteristics
                 │
                 ↓
           Business Value
-```text
+
+```markdown
 ---
 # 0.13 Limitations of the Competitive Analysis
 

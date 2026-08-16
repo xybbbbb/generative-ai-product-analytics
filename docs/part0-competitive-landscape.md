@@ -655,44 +655,56 @@ and will be examined in later stages.
 
 # 0.12 Analytical Framework
 
-The competitive analysis leads to the following conceptual framework:
+The competitive analysis leads to the following conceptual framework.
 
-```text
-Product Characteristics
-        │
-        ├── Model / AI Capability
-        ├── Product Features
-        ├── Ecosystem Integration
-        ├── Price / Subscription
-        └── Accessibility
-                │
-                ↓
-        User Perception of Value
-                │
-                ↓
-        Product Selection
-                │
-        ┌───────┴────────┐
-        ↓                ↓
-   Usage Scenarios    Usage Behavior
-        │                │
-        └───────┬────────┘
-                ↓
-          Engagement
-                │
-        ┌───────┴────────┐
-        ↓                ↓
-     Retention       Satisfaction
-        │                │
-        └───────┬────────┘
-                ↓
-        Willingness to Pay
-                │
-                ↓
-          Business Value
+### Product Characteristics
 
-```markdown
+- Model / AI Capability
+- Product Features
+- Ecosystem Integration
+- Price / Subscription
+- Accessibility
+
+↓
+
+### User Perception of Value
+
+↓
+
+### Product Selection
+
+↓
+
+### Usage
+
+- Usage Scenarios
+- Usage Frequency
+- Usage Behavior
+
+↓
+
+### Engagement
+
+↓
+
+### Retention & Satisfaction
+
+↓
+
+### Willingness to Pay
+
+↓
+
+### Business Value
+
+This framework can be summarized as:
+
+**Product Characteristics → User Perception of Value → Product Selection → Usage → Engagement → Retention & Satisfaction → Willingness to Pay → Business Value**
+
+The purpose of this framework is to connect product-level characteristics with measurable user behaviors and ultimately with business outcomes.
+
 ---
+
 # 0.13 Limitations of the Competitive Analysis
 
 This section is based primarily on publicly available product information and therefore has several limitations.
@@ -718,7 +730,7 @@ The existence of a feature does not necessarily mean that users:
 - Use it
 - Like it
 - Consider it important
-- Are willing to pay for it
+- Are willing to pay
 
 Therefore, feature comparisons alone cannot establish competitive advantage.
 
